@@ -6,9 +6,8 @@ Una aplicación web que permite a los usuarios crear una lista de tareas donde p
 
 ### [DEMO DE LA WEB](https://django-crud-auth-and-tasklist.onrender.com)
 
-![screenshots de la web ](https://)
-![screenshots de la web ](https://)
-![screenshots de la web ](https://)
+
+![red1](https://github.com/user-attachments/assets/441d4a5d-7248-4233-8a1c-44b25daa8f5e)
 ## Funcionalidades
 
 - Registro y autenticación de usuarios
